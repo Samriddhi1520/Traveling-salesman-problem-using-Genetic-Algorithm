@@ -37,23 +37,23 @@ Displays the optimal route discovered by the GA.
 
 ### 🔹 Distance Improvement Over Generations  
 Shows how the shortest distance improves as generations evolve.  
-![Distance Progress](distance_progress.png)  
+![Distance Progress](images/distance_progress.png)  
 
 ### 🔹 Population Distance Distribution  
 Illustrates diversity in route fitness within the population.  
-![Population Histogram](population_hist.png)  
+![Population Histogram](images/population_hist.png)  
 
 ### 🔹 State Space Visualization (MDS)  
 Visualizes routes in reduced 2D space using Multi-Dimensional Scaling (MDS).  
 
-- **Generation 1**  
-  ![State Space Gen 1](state_space1.png)  
+- **Generation 0**  
+  ![State Space Gen 1](images/state_space1.png)  
 
-- **Generation 5**  
-  ![State Space Gen 5](state_space5.png)  
+- **Generation 200**  
+  ![State Space Gen 5](images/state_space5.png)  
 
-- **Generation 10**  
-  ![State Space Gen 10](state_space10.png)  
+- **Generation 450**  
+  ![State Space Gen 10](images/state_space10.png)  
 
 ---
 
