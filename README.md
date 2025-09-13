@@ -61,3 +61,29 @@ cd genetic-algorithm-tsp
 
 # Run the program
 python tsp_ga.py
+
+## 📊 Example Outputs  
+
+### 🔹 Best Route Visualization  
+Shows the optimal route discovered by the GA.  
+![Best Route](images/best_route.png)  
+
+### 🔹 Distance Improvement Over Generations  
+Displays how the shortest distance improves with each generation.  
+![Distance Progress](images/distance_progress.png)  
+
+### 🔹 Population Distance Distribution  
+Illustrates diversity of routes in the population.  
+![Population Histogram](images/population_hist.png)  
+
+### 🔹 State Space Visualization (MDS)  
+Visualizes routes in reduced 2D space using Multi-Dimensional Scaling (MDS).  
+
+- **Generation 1**  
+  ![State Space 1](images/state_space1.png)  
+
+- **Generation 5**  
+  ![State Space 5](images/state_space5.png)  
+
+- **Generation 10**  
+  ![State Space 10](images/state_space10.png)  
