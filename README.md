@@ -33,7 +33,7 @@ This demonstrates how a **Genetic Algorithm (GA)** can be applied to solve the *
 
 ### 🔹 Best Route Visualization  
 Displays the optimal route discovered by the GA.  
-![Best Route]([best_route.png](https://github.com/Samriddhi1520/Traveling-salesman-problem-using-Genetic-Algorithm/blob/main/images/best_route.png))  
+![Best Route](images/best_route.png)  
 
 ### 🔹 Distance Improvement Over Generations  
 Shows how the shortest distance improves as generations evolve.  
